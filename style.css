@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.dropdown-menu{
+    display: none;
+  }
+
+.visible{
+    display: grid;
+  }
